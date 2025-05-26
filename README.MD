@@ -56,5 +56,5 @@ Proyecto1/
 
 ## Notas
 
-- Asegúrate de que el archivo del modelo (`IAProyecto3.keras`) esté en la carpeta `model/`.
+- Asegúrate de que el archivo del modelo (`IAReciclaje.keras`) esté en la carpeta `model/`.
 - Si tienes problemas con las rutas o dependencias, revisa que estés ejecutando los comandos desde la carpeta correcta.
