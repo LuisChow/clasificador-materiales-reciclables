@@ -1,4 +1,5 @@
 # Clasificador de Materiales Reciclables
+> **Demo en vivo:** https://clasificador-materiales-reciclables-gw5qby2fdrqyngha4smndc.streamlit.app/
 
 Aplicación de visión por computadora que clasifica imágenes de residuos en cinco categorías de materiales reciclables —cartón, vidrio, metal, papel y plástico— mediante una red neuronal convolucional (CNN) entrenada con TensorFlow. Incluye una interfaz web en Streamlit donde el usuario sube una imagen y recibe la predicción al instante.
 
